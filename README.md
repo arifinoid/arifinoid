@@ -6,12 +6,9 @@
 **Rohmad Arifin | he/him**
 
 - 💻 Full-stack Developer
-- ✨ Interested in backend-ish things 
+- ✨ Interested in backend-ish things
 - 👯 Looking to collaborate on some open source projects
 - 📫 Reach me on [twitter](https://twitter.com/arifinoid) or [instagram](https://instagram.com/arifinoid)
-
-
-[![🦉 Rohmad Arifin's github stats](https://github-readme-stats.vercel.app/api?username=arifinoid&show_icons=true&hide_border=true&hide=issues)](https://github.com/arifinoid)
 
 <!--
 **arifinoid/arifinoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
