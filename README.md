@@ -32,13 +32,16 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Nix                      17 mins             ██████████████████░░░░░░░   70.04 % 
+Lua                      6 mins              ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    25 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -54,7 +57,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/02/2025 02:41:37 UTC
+ Last Updated on 03/02/2025 02:40:45 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
