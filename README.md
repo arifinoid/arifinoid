@@ -32,16 +32,13 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Nix                      15 mins             ███████████░░░░░░░░░░░░░░   42.61 % 
-gitignore                9 mins              ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-Other                    8 mins              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Ruby                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -57,7 +54,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2025 03:13:31 UTC
+ Last Updated on 19/05/2025 03:14:09 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
