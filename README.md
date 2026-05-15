@@ -26,35 +26,20 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               65 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
-TypeScript               38 repos            ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Rust                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+JavaScript               65 repos            ██████████░░░░░░░░░░░░░░░   41.40 % 
+TypeScript               39 repos            ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
+Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Rust                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 
 
 
 
- Last Updated on 14/05/2026 05:42:14 UTC
+ Last Updated on 15/05/2026 05:49:37 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
