@@ -44,17 +44,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               65 repos            ██████████░░░░░░░░░░░░░░░   41.40 % 
-TypeScript               39 repos            ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+JavaScript               65 repos            ██████████░░░░░░░░░░░░░░░   41.14 % 
+TypeScript               39 repos            ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Java                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 Rust                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 
 
 
 
- Last Updated on 04/06/2026 06:37:16 UTC
+ Last Updated on 05/06/2026 06:16:00 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
