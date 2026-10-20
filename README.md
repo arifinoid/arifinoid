@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2039%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -34,47 +34,47 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Nix                      9 hrs 51 mins       ███████████████░░░░░░░░░░   61.74 % 
-Other                    1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-TypeScript               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Git Config               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Nix                      9 hrs 51 mins       ███████████████░░░░░░░░░░   58.05 % 
+TypeScript               1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Other                    1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Markdown                 1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Git Config               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 26 mins       ████████████░░░░░░░░░░░░░   46.58 % 
-OpenCode                 7 hrs 10 mins       ███████████░░░░░░░░░░░░░░   44.95 % 
-Unknown Editor           39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Claude Code              39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Vim                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Neovim                   8 hrs 15 mins       ████████████░░░░░░░░░░░░░   48.60 % 
+OpenCode                 7 hrs 22 mins       ███████████░░░░░░░░░░░░░░   43.44 % 
+Unknown Editor           39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Claude Code              39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Vim                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-WSL                      15 hrs 58 mins      █████████████████████████   100.00 % 
+WSL                      16 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 39 mins (91.71%)
+⏱ AI Coding Time: 15 hrs 27 mins (90.92%)
 
-✍️ 6,951 lines written by AI, 13 lines written by hand (99.81% AI-written)
+✍️ 8,408 lines written by AI, 13 lines written by hand (99.85% AI-written)
 
-🔤 8,428,140 Input Tokens, 683,997 Output Tokens
+🔤 8,877,476 Input Tokens, 749,821 Output Tokens
 
-💵 $567.14 Estimated AI Cost This Week
+💵 $608.91 Estimated AI Cost This Week
 
-🧠 59 AI Sessions, 148 AI Prompts
+🧠 60 AI Sessions, 154 AI Prompts
 
-Neovim                   2,625 lines         █████████░░░░░░░░░░░░░░░░   35.91 % 
-Nemotron                 1,927 lines         ███████░░░░░░░░░░░░░░░░░░   26.36 % 
-Spark                    1,382 lines         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-GLM                      1,370 lines         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-DeepSeek                 6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Neovim                   2,625 lines         ███████░░░░░░░░░░░░░░░░░░   29.88 % 
+Nemotron                 1,927 lines         █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+DeepSeek                 1,480 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Spark                    1,382 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+GLM                      1,370 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.81% of written lines came from AI
-📚 Verbose Prompter — average 3,424 characters per prompt
+🤖 AI-Driven — 99.85% of written lines came from AI
+📚 Verbose Prompter — average 3,298 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.69% of changed lines were hand-edited
+🚀 High AI Trust — 0.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +90,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 07:11:10 UTC
+ Last Updated on 20/10/2026 06:58:29 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
