@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2037%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -34,46 +34,46 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               10 hrs 55 mins      █████████░░░░░░░░░░░░░░░░   36.35 % 
-Nix                      9 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   32.80 % 
-Markdown                 2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Other                    1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-gitignore                44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+TypeScript               11 hrs 38 mins      █████████░░░░░░░░░░░░░░░░   36.04 % 
+Nix                      11 hrs 21 mins      █████████░░░░░░░░░░░░░░░░   35.17 % 
+Markdown                 3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Other                    1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+gitignore                44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🔥 Editors: 
-OpenCode                 16 hrs 13 mins      ██████████████░░░░░░░░░░░   54.00 % 
-Neovim                   11 hrs 19 mins      █████████░░░░░░░░░░░░░░░░   37.69 % 
-Claude Code              2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-Vim                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+OpenCode                 18 hrs 26 mins      ██████████████░░░░░░░░░░░   57.11 % 
+Neovim                   11 hrs 3 mins       █████████░░░░░░░░░░░░░░░░   34.26 % 
+Claude Code              2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Vim                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-WSL                      30 hrs 3 mins       █████████████████████████   100.00 % 
+WSL                      32 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs (96.51%)
+⏱ AI Coding Time: 31 hrs 1 min (96.1%)
 
-✍️ 18,624 lines written by AI, 15 lines written by hand (99.92% AI-written)
+✍️ 19,144 lines written by AI, 15 lines written by hand (99.92% AI-written)
 
-🔤 22,386,928 Input Tokens, 3,815,202 Output Tokens
+🔤 22,635,629 Input Tokens, 3,909,810 Output Tokens
 
-💵 $2351.79 Estimated AI Cost This Week
+💵 $2426.95 Estimated AI Cost This Week
 
-🧠 85 AI Sessions, 257 AI Prompts
+🧠 90 AI Sessions, 275 AI Prompts
 
-M                        6,717 lines         █████████░░░░░░░░░░░░░░░░   35.41 % 
-DeepSeek                 4,950 lines         ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-Neovim                   2,625 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Nemotron                 1,927 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Spark                    1,382 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+M                        6,717 lines         █████████░░░░░░░░░░░░░░░░   34.67 % 
+DeepSeek                 5,561 lines         ███████░░░░░░░░░░░░░░░░░░   28.71 % 
+Neovim                   2,847 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Nemotron                 1,927 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+GLM                      1,370 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.92% of written lines came from AI
-📚 Verbose Prompter — average 2,566 characters per prompt
+📚 Verbose Prompter — average 2,356 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.35% of changed lines were hand-edited
+🚀 High AI Trust — 0.42% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,7 +89,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 06:56:27 UTC
+ Last Updated on 23/10/2026 06:49:18 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
