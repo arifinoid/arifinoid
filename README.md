@@ -34,47 +34,47 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               10 hrs 31 mins      █████████████░░░░░░░░░░░░   52.28 % 
-Markdown                 3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Nix                      2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Bash                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-gitignore                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+TypeScript               9 hrs 28 mins       █████████████░░░░░░░░░░░░   52.89 % 
+Nix                      2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Markdown                 2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Bash                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+gitignore                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 
 🔥 Editors: 
-OpenCode                 9 hrs 49 mins       ████████████░░░░░░░░░░░░░   48.81 % 
-Neovim                   6 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   34.17 % 
-Claude Code              3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Vim                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+OpenCode                 9 hrs 19 mins       █████████████░░░░░░░░░░░░   52.08 % 
+Neovim                   5 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+Claude Code              3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Vim                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 💻 Operating System: 
-WSL                      18 hrs 47 mins      ███████████████████████░░   93.33 % 
-Linux                    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+WSL                      16 hrs 34 mins      ███████████████████████░░   92.51 % 
+Linux                    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 13 mins (95.5%)
+⏱ AI Coding Time: 17 hrs 14 mins (96.24%)
 
-✍️ 12,317 lines written by AI, 9 lines written by hand (99.93% AI-written)
+✍️ 10,383 lines written by AI, 30 lines written by hand (99.71% AI-written)
 
-🔤 15,669,600 Input Tokens, 3,444,181 Output Tokens
+🔤 15,178,883 Input Tokens, 3,290,151 Output Tokens
 
-💵 $1884.11 Estimated AI Cost This Week
+💵 $1786.76 Estimated AI Cost This Week
 
-🧠 50 AI Sessions, 189 AI Prompts
+🧠 49 AI Sessions, 170 AI Prompts
 
-M                        6,717 lines         ██████████████░░░░░░░░░░░   55.45 % 
-DeepSeek                 5,346 lines         ███████████░░░░░░░░░░░░░░   44.13 % 
-GLM                      50 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+M                        6,717 lines         █████████████████░░░░░░░░   66.03 % 
+DeepSeek                 3,384 lines         ████████░░░░░░░░░░░░░░░░░   33.26 % 
+GLM                      72 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 Flint                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📚 Verbose Prompter — average 2,487 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.95% of changed lines were hand-edited
+🤖 AI-Driven — 99.71% of written lines came from AI
+📚 Verbose Prompter — average 2,749 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 1.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +90,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 07:09:30 UTC
+ Last Updated on 28/10/2026 07:48:22 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
