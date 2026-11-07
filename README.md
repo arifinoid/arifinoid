@@ -20,61 +20,60 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    4 hrs 51 mins       ████████████░░░░░░░░░░░░░   46.53 % 
-Nix                      1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Text                     1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-SQL                      56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Bash                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Other                    3 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   37.43 % 
+Text                     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Nix                      1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+SQL                      56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Bash                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 50 mins       ███████████████████░░░░░░   75.23 % 
-OpenCode                 2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Neovim                   7 hrs 31 mins       ███████████████████░░░░░░   77.27 % 
+OpenCode                 2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-WSL                      10 hrs 25 mins      █████████████████████████   100.00 % 
+WSL                      9 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 7 mins (97.08%)
+⏱ AI Coding Time: 9 hrs 18 mins (95.53%)
 
-✍️ 566 lines written by AI, 56 lines written by hand (91.0% AI-written)
+✍️ 3,507 lines written by AI, 56 lines written by hand (98.43% AI-written)
 
-🔤 6,635,978 Input Tokens, 997,408 Output Tokens
+🔤 5,172,296 Input Tokens, 936,364 Output Tokens
 
-💵 $761.75 Estimated AI Cost This Week
+💵 $658.79 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 101 AI Prompts
+🧠 18 AI Sessions, 71 AI Prompts
 
-GLM                      280 lines           ████████████░░░░░░░░░░░░░   47.30 % 
-Neovim                   257 lines           ███████████░░░░░░░░░░░░░░   43.41 % 
-Flint                    55 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+GLM                      3,364 lines         ████████████████████████░   94.36 % 
+Neovim                   201 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tencent Hy               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.0% of written lines came from AI
-📝 Concise Prompter — average 121 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 13.32% of changed lines were hand-edited
+🤖 AI-Driven — 98.43% of written lines came from AI
+📄 Detailed Prompter — average 1,246 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 2.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               63 repos            ██████████░░░░░░░░░░░░░░░   38.18 % 
-TypeScript               47 repos            ███████░░░░░░░░░░░░░░░░░░   28.48 % 
-Java                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Rust                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+JavaScript               63 repos            █████████░░░░░░░░░░░░░░░░   37.95 % 
+TypeScript               47 repos            ███████░░░░░░░░░░░░░░░░░░   28.31 % 
+Java                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Kotlin                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 
 
 
 
- Last Updated on 06/11/2026 08:49:53 UTC
+ Last Updated on 07/11/2026 08:06:43 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
