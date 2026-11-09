@@ -12,7 +12,7 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2046%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,44 +20,44 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    2 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   31.28 % 
-Text                     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-SQL                      56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Markdown                 54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Rust                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Other                    3 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   31.19 % 
+Rust                     2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Text                     1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+SQL                      56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Markdown                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 37 mins       ███████████████████████░░   92.20 % 
-OpenCode                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Neovim                   10 hrs 19 mins      ███████████████████████░░   91.44 % 
+OpenCode                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-WSL                      8 hrs 16 mins       █████████████████████████   100.00 % 
+WSL                      11 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 39 mins (92.59%)
+⏱ AI Coding Time: 10 hrs 40 mins (94.57%)
 
-✍️ 3,411 lines written by AI, 29 lines written by hand (99.16% AI-written)
+✍️ 4,173 lines written by AI, 29 lines written by hand (99.31% AI-written)
 
-🔤 2,424,373 Input Tokens, 757,581 Output Tokens
+🔤 3,382,786 Input Tokens, 1,130,955 Output Tokens
 
-💵 $471.05 Estimated AI Cost This Week
+💵 $688.56 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 48 AI Prompts
+🧠 17 AI Sessions, 67 AI Prompts
 
-GLM                      3,364 lines         ████████████████████████░   97.14 % 
-Neovim                   99 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GLM                      3,416 lines         ████████████████████░░░░░   80.62 % 
+DeepSeek                 722 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Neovim                   99 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.16% of written lines came from AI
-📚 Verbose Prompter — average 1,770 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.77% of changed lines were hand-edited
+🤖 AI-Driven — 99.31% of written lines came from AI
+📄 Detailed Prompter — average 1,319 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 1.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -73,7 +73,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2026 08:26:29 UTC
+ Last Updated on 09/11/2026 08:55:58 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
