@@ -12,7 +12,7 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-69%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%2010%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,45 +20,46 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Rust                     9 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   40.70 % 
-Other                    5 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-Nix                      3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Bash                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Rust                     7 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   34.58 % 
+Other                    5 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+Nix                      4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+YAML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Bash                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 
 🔥 Editors: 
-Neovim                   20 hrs 46 mins      ███████████████████████░░   93.49 % 
-Vim                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-OpenCode                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Neovim                   18 hrs 54 mins      ████████████████████░░░░░   81.91 % 
+Vim                      3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+OpenCode                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 
 💻 Operating System: 
-WSL                      22 hrs 13 mins      █████████████████████████   100.00 % 
+WSL                      22 hrs 46 mins      █████████████████████████   98.69 % 
+Linux                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 7 mins (95.1%)
+⏱ AI Coding Time: 22 hrs 9 mins (96.0%)
 
-✍️ 1,759 lines written by AI, 100 lines written by hand (94.62% AI-written)
+✍️ 2,016 lines written by AI, 100 lines written by hand (95.27% AI-written)
 
-🔤 32,330,511 Input Tokens, 1,861,240 Output Tokens
+🔤 72,925,303 Input Tokens, 1,928,943 Output Tokens
 
-💵 $1128.08 Estimated AI Cost This Week
+💵 $1382.19 Estimated AI Cost This Week
 
-🧠 201 AI Sessions, 122 AI Prompts
+🧠 383 AI Sessions, 139 AI Prompts
 
-DeepSeek                 1,510 lines         █████████████████████░░░░   83.94 % 
-Nemotron                 158 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Gemini                   79 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-GLM                      52 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-Llama                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+DeepSeek                 1,772 lines         █████████████████████░░░░   85.60 % 
+Nemotron                 161 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Gemini                   79 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+GLM                      52 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Longcat                  6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.62% of written lines came from AI
-📝 Concise Prompter — average 153 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 15.74% of changed lines were hand-edited
+🤖 AI-Driven — 95.27% of written lines came from AI
+📝 Concise Prompter — average 162 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🚀 High AI Trust — 13.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -74,7 +75,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2026 08:25:35 UTC
+ Last Updated on 15/11/2026 08:42:29 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
