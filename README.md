@@ -12,7 +12,7 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-75%20hrs%2028%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,62 +20,63 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Rust                     7 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   34.58 % 
-Other                    5 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
-Nix                      4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-YAML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Bash                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Rust                     6 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+Other                    5 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+Nix                      3 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Markdown                 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+YAML                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 
 🔥 Editors: 
-Neovim                   18 hrs 54 mins      ████████████████████░░░░░   81.91 % 
-Vim                      3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-OpenCode                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Neovim                   16 hrs 46 mins      ███████████████████░░░░░░   74.83 % 
+Vim                      3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Claude Code              1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+OpenCode                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 💻 Operating System: 
-WSL                      22 hrs 46 mins      █████████████████████████   98.69 % 
-Linux                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+WSL                      22 hrs 6 mins       █████████████████████████   98.65 % 
+Linux                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 9 mins (96.0%)
+⏱ AI Coding Time: 21 hrs 24 mins (95.54%)
 
-✍️ 2,016 lines written by AI, 100 lines written by hand (95.27% AI-written)
+✍️ 5,170 lines written by AI, 116 lines written by hand (97.81% AI-written)
 
-🔤 72,925,303 Input Tokens, 1,928,943 Output Tokens
+🔤 72,975,895 Input Tokens, 1,844,099 Output Tokens
 
-💵 $1382.19 Estimated AI Cost This Week
+💵 $1286.65 Estimated AI Cost This Week
 
-🧠 383 AI Sessions, 139 AI Prompts
+🧠 392 AI Sessions, 131 AI Prompts
 
-DeepSeek                 1,772 lines         █████████████████████░░░░   85.60 % 
-Nemotron                 161 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Gemini                   79 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-GLM                      52 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+DeepSeek                 1,065 lines         █████████████░░░░░░░░░░░░   51.37 % 
+GLM                      762 lines           █████████░░░░░░░░░░░░░░░░   36.76 % 
+Nemotron                 161 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Gemini                   79 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 Longcat                  6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.27% of written lines came from AI
-📝 Concise Prompter — average 162 characters per prompt
+🤖 AI-Driven — 97.81% of written lines came from AI
+📝 Concise Prompter — average 391 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 13.97% of changed lines were hand-edited
+🚀 High AI Trust — 6.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               47 repos            ███████░░░░░░░░░░░░░░░░░░   28.14 % 
-Python                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Rust                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-Java                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+TypeScript               47 repos            ███████░░░░░░░░░░░░░░░░░░   27.98 % 
+Go                       6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Python                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Rust                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 
 
 
 
- Last Updated on 15/11/2026 08:42:29 UTC
+ Last Updated on 16/11/2026 08:52:15 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
