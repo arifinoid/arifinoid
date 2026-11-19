@@ -12,7 +12,7 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%2029%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,47 +20,47 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    4 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
-Nix                      3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Rust                     3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Markdown                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-YAML                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Rust                     5 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+Nix                      4 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Markdown                 4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Other                    3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+YAML                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 
 🔥 Editors: 
-Neovim                   10 hrs 34 mins      ██████████████░░░░░░░░░░░   56.07 % 
-Claude Code              4 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
-Vim                      3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-OpenCode                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Claude Code              13 hrs 13 mins      █████████████░░░░░░░░░░░░   51.19 % 
+Neovim                   8 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   32.17 % 
+Vim                      3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+OpenCode                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 💻 Operating System: 
-WSL                      18 hrs 33 mins      █████████████████████████   98.40 % 
-Linux                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+WSL                      25 hrs 32 mins      █████████████████████████   98.91 % 
+Linux                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 52 mins (94.77%)
+⏱ AI Coding Time: 25 hrs 4 mins (97.1%)
 
-✍️ 5,672 lines written by AI, 110 lines written by hand (98.1% AI-written)
+✍️ 11,243 lines written by AI, 79 lines written by hand (99.3% AI-written)
 
-🔤 71,386,483 Input Tokens, 1,461,981 Output Tokens
+🔤 82,505,720 Input Tokens, 1,912,567 Output Tokens
 
-💵 $990.41 Estimated AI Cost This Week
+💵 $1019.43 Estimated AI Cost This Week
 
-🧠 399 AI Sessions, 131 AI Prompts
+🧠 446 AI Sessions, 169 AI Prompts
 
-GLM                      762 lines           ████████████░░░░░░░░░░░░░   49.26 % 
-DeepSeek                 539 lines           █████████░░░░░░░░░░░░░░░░   34.84 % 
-Nemotron                 161 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-Gemini                   79 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Longcat                  6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+DeepSeek                 2,616 lines         ██████████████████░░░░░░░   73.79 % 
+GLM                      762 lines           █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
+Nemotron                 161 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Longcat                  6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Llama                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.1% of written lines came from AI
-📚 Verbose Prompter — average 1,532 characters per prompt
+🤖 AI-Driven — 99.3% of written lines came from AI
+📚 Verbose Prompter — average 2,352 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 4.12% of changed lines were hand-edited
+🚀 High AI Trust — 1.86% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -76,7 +76,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2026 09:35:59 UTC
+ Last Updated on 19/11/2026 09:43:26 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
