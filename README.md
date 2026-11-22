@@ -12,7 +12,7 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2044%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,46 +20,44 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 6 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-Rust                     5 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-TypeScript               4 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Nix                      2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Other                    2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+TypeScript               8 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   30.28 % 
+Markdown                 6 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
+Rust                     6 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+Nix                      1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 45 mins      ██████████████████░░░░░░░   72.34 % 
-Neovim                   4 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Vim                      2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-OpenCode                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Claude Code              25 hrs 12 mins      ███████████████████████░░   91.81 % 
+Neovim                   2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+OpenCode                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Vim                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-WSL                      27 hrs 2 mins       █████████████████████████   98.97 % 
-Linux                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+WSL                      27 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 4 mins (99.09%)
+⏱ AI Coding Time: 27 hrs 11 mins (99.01%)
 
-✍️ 12,842 lines written by AI, 51 lines written by hand (99.6% AI-written)
+✍️ 16,421 lines written by AI, 160 lines written by hand (99.04% AI-written)
 
-🔤 50,978,147 Input Tokens, 1,956,639 Output Tokens
+🔤 6,677,522 Input Tokens, 1,882,941 Output Tokens
 
-💵 $575.90 Estimated AI Cost This Week
+💵 $130.40 Estimated AI Cost This Week
 
-🧠 228 AI Sessions, 154 AI Prompts
+🧠 33 AI Sessions, 139 AI Prompts
 
-DeepSeek                 2,365 lines         ███████████████████░░░░░░   75.41 % 
-GLM                      762 lines           ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
-Longcat                  6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Nemotron                 3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+GLM                      762 lines           █████████████████░░░░░░░░   66.90 % 
+DeepSeek                 377 lines           ████████░░░░░░░░░░░░░░░░░   33.10 % 
+Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.6% of written lines came from AI
-📚 Verbose Prompter — average 4,182 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.44% of changed lines were hand-edited
+🤖 AI-Driven — 99.04% of written lines came from AI
+📚 Verbose Prompter — average 6,584 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 1.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +73,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2026 09:02:41 UTC
+ Last Updated on 22/11/2026 09:11:11 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
