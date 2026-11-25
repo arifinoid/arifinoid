@@ -12,7 +12,7 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-105%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-106%20hrs-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,58 +20,58 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               8 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   36.94 % 
-Rust                     6 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   28.30 % 
-Markdown                 5 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+TypeScript               9 hrs 1 min         ██████████░░░░░░░░░░░░░░░   38.13 % 
+Rust                     5 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+Markdown                 5 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+Bash                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Other                    26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 🔥 Editors: 
-Claude Code              23 hrs 19 mins      ████████████████████████░   96.34 % 
-Neovim                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-OpenCode                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Claude Code              23 hrs              ████████████████████████░   97.24 % 
+Neovim                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+OpenCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-WSL                      24 hrs 12 mins      █████████████████████████   100.00 % 
+WSL                      23 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs (99.17%)
+⏱ AI Coding Time: 23 hrs 22 mins (98.8%)
 
-✍️ 18,360 lines written by AI, 165 lines written by hand (99.11% AI-written)
+✍️ 18,046 lines written by AI, 215 lines written by hand (98.82% AI-written)
 
-🔤 6,079,536 Input Tokens, 1,761,331 Output Tokens
+🔤 5,926,348 Input Tokens, 1,750,634 Output Tokens
 
-💵 $13.99 Estimated AI Cost This Week
+💵 $10.71 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 109 AI Prompts
+🧠 14 AI Sessions, 107 AI Prompts
 
-DeepSeek                 44 lines            █████████████████████████   100.00 % 
+DeepSeek                 38 lines            █████████████████████████   100.00 % 
 Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.11% of written lines came from AI
-📚 Verbose Prompter — average 7,423 characters per prompt
+🤖 AI-Driven — 98.82% of written lines came from AI
+📚 Verbose Prompter — average 7,704 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.94% of changed lines were hand-edited
+🚀 High AI Trust — 1.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               48 repos            ███████░░░░░░░░░░░░░░░░░░   28.40 % 
-Python                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-Java                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+TypeScript               48 repos            ███████░░░░░░░░░░░░░░░░░░   28.24 % 
+Python                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Rust                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Java                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 
 
 
 
- Last Updated on 24/11/2026 11:53:40 UTC
+ Last Updated on 25/11/2026 10:45:25 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
